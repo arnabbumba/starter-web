@@ -13,3 +13,17 @@ cheznead
 Oh no, not again. See: Why not upload images of code/errors when asking a question?. It includes (my emphasis) "Images should only be used to illustrate problems that can't be made clear in any other way, such as to provide screenshots of a user interface." – 
 Peter Mortensen
  Mar 7 at 21:15
+ 
+ git init
+
+git add .
+
+git commit -m "Add all my files"
+git remote add origin https://github.com/yourusername/your-repo-name.git
+
+Upload of project from scratch require git pull origin master.
+
+git pull origin master
+
+git push origin master
+
